@@ -7,10 +7,8 @@ body{
   align-items: center;
 }
 
-.img {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.resim {
+    margin-left: 40%;
 }
 
 .button-container{
